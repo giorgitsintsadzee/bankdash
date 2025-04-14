@@ -1,0 +1,24 @@
+.conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    gap: 40px;
+}
+
+.searchBar {
+    position: relative;
+    width: 255px;
+}
+
+.icon {
+    position: absolute;
+}
+
+.options {
+    display: flex;
+    gap: 10px;
+}
